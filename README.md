@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sumowoiharris
+- 👀 I’m interested in learning more about objected oriented programming language
+- 🌱 I’m currently learning Computer Science
